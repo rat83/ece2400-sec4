@@ -8,6 +8,7 @@ int avg( int x, int y )
   int sum = x + y;
   return sum / 2;
 }
+//meme
 
 void test_case_1_basic()
 {
